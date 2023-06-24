@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ecommerce</title>
+     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"/> 
+    <link rel="stylesheet" href="style.css">
+</head>
+<body background="C:\Users\somya\Pictures\bg.png" style="background-repeat: no-repeat; background-size:100% 20%">
+    
+    <!-- navigation bar at the top -->
+    <nav id="header">
+        <a href="#"><img src="C:\Users\somya\Pictures\download (2).jpg" class="logo" alt=""></a>
+        <div>
+            <ul id="navbar">
+                <li><a class="active" href="index.html">Home</a></li>
+                <li><a href="shop.html">Shop</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="cart.html"><img src="C:\Users\somya\Pictures\logoo.png" width="20px"></a></li>
+            </ul>
+        </div>
+
+    </nav>
+   
+    <section id="hero">
+        <!-- <a href="#"><img src="C:\Users\somya\Pictures\picture.png" class="photo" alt=""></a> -->
+        <h4>Trade-in-offer</h4>
+        <h2>Super value deals</h2>
+        <h1>On all products</h1>
+        <p>Save more with coupons & up to 70% off! </p>
+        <button>Shop Now</button>
+
+    </section>
+
+    <section id="feature" class="section-p1">
+        <div class="fe-box">
+            <img src="C:\Users\somya\Documents\pppp.png" alt="">
+          
+        </div>
+        <div class="fe-box">
+            <img src="C:\Users\somya\Documents\p.png" alt="">
+            
+        </div>
+        <div class="fe-box">
+            <img src="C:\Users\somya\Documents\ppp.png" alt="">
+          
+        </div>
+    </section>
+
+    <section id="product1" class="section-p1">
+        <h2>FEATURED PRODUCTS</h2>
+        <p>Summer Collection New Modern Design</p>
+        <div class="pro-container">
+            <div class="pro">
+                <img src="C:\Users\somya\Documents\f1.png" alt="">
+                <div class="des">
+                    <span>ADIDAS</span>
+                    <h5>Cartoon Astronaut T-Shirts</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>$78</h4>
+                </div>
+                <img src="C:\Users\somya\Pictures\logoo.png" width="20px">
+            </div>
+            <div class="pro">
+                <img src="C:\Users\somya\Documents\f2.png" alt="">
+                <div class="des">
+                    <span>LEVI'S</span>
+                    <h5>Cartoon Astronaut T-Shirts</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>$85</h4>
+                </div>
+                <img src="C:\Users\somya\Pictures\logoo.png" width="20px">
+            </div>
+            <div class="pro">
+                <img src="C:\Users\somya\Documents\f3.png" alt="">
+                <div class="des">
+                    <span>H & M</span>
+                    <h5>Cartoon Astronaut T-Shirts</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>$88</h4>
+                </div>
+                <img src="C:\Users\somya\Pictures\logoo.png" width="20px">
+            </div>
+            <div class="pro">
+                <img src="C:\Users\somya\Documents\f4.png" alt="">
+                <div class="des">
+                    <br>
+                    <br>
+                    <span>JORDAN</span>
+                    <h5>Cartoon Astronaut T-Shirts</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>$78</h4>
+                </div>
+                <img src="C:\Users\somya\Pictures\logoo.png" width="20px">
+            </div>
+            
+        </div>
+    </section>
+
+
+    <section id="product1" class="section-p1">
+        <h2>NEW ARRIVALS</h2>
+        <p>Summer Collection New Modern Design</p>
+        <div class="pro-container">
+            <div class="pro">
+                <img src="C:\Users\somya\Documents\n1.png" alt="">
+                <div class="des">
+                    <br>
+                    <br>
+                    <span>ADIDAS</span>
+                    <h5>Cartoon Astronaut T-Shirts</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>$78</h4>
+                </div>
+                <img src="C:\Users\somya\Pictures\logoo.png" width="20px">
+            </div>
+            <div class="pro">
+                <img src="C:\Users\somya\Documents\n2.png" alt="">
+                <div class="des">
+                    <br>
+                    <br>
+                    <br>
+                    <span>LEVI'S</span>
+                    <h5>Cartoon Astronaut T-Shirts</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>$85</h4>
+                </div>
+                <img src="C:\Users\somya\Pictures\logoo.png" width="20px">
+            </div>
+            <div class="pro">
+                <img src="C:\Users\somya\Documents\n3.png" alt="">
+                <div class="des">
+                    <br>
+                    <br>
+                    <br>
+                    
+                    <span>H & M</span>
+                    <h5>Cartoon Astronaut T-Shirts</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>$88</h4>
+                </div>
+                <img src="C:\Users\somya\Pictures\logoo.png" width="20px">
+            </div>
+            <div class="pro">
+                <img src="C:\Users\somya\Documents\n4.png" alt="">
+                <div class="des">
+                    <br>
+                    <br>
+                    <span>JORDAN</span>
+                    <h5>Cartoon Astronaut T-Shirts</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>$78</h4>
+                </div>
+                <img src="C:\Users\somya\Pictures\logoo.png" width="20px">
+            </div>
+            
+        </div>
+    </section>
+
+
+    <section id="newsletter" class="section-p1">
+        <div class="newstext">
+            <h4>Sign Up For Newsletter</h4>
+            <p> Get E-mail Updates About Our Latest Shop And <span>SPECIAL OFFERS.</span></p>
+
+        </div>
+        <div class="form">
+            <input type="text" placeholder="Your Email Address" >
+            <button>Sign Up</button>
+        </div>
+    </section>
+
+    <footer class="section-p1">
+        <div class="col">
+            <img src="C:\Users\somya\Pictures\download (3).jpg" alt="">
+            <h4>Contact</h4>
+            <p><strong>Address:</strong> Madhopur, B.R.M College Road, Munger</p>
+            <p><strong>Phone:</strong>(+91) 8092776290</p>
+            <p><strong>Hours:</strong>10:00-18:00, Mon-Sat</p>
+            <div class="follow">
+                <h4>Follow us</h4>
+                <div class="icon">
+                    <i class="fab fa-facebook-f"></i>
+                    <i class="fab fa-twitter"></i>
+                    <i class="fab fa-instagram"></i>
+                    <i class="fab fa-pinterest"></i>
+                    <i class="fab fa-youtube"></i>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <h4>About</h4>
+            <a href="#">About us</a>
+            <a href="#">Delivery Information </a>
+            <a href="#">Privacy Policy</a>
+            <a href="#">Terms and Conditions</a>
+            <a href="#">Contact Us</a>
+        </div>
+        <div class="col">
+            <h4>Account</h4>
+            <a href="#">Sign In</a>
+            <a href="#">View Chart </a>
+            <a href="#">My Wishlist</a>
+            <a href="#">Track My Order</a>
+            <a href="#">Help</a>
+        </div>
+    </footer>
+
+
+    <script src="script.js" > </script>
+</body>
+</html>
